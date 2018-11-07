@@ -1,0 +1,15 @@
+{
+  "name": "Bow's Community Official Discord Bot",
+  "version": "1.0.0",
+  "description": "Official bot of Bow's Community",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js
+  },
+  "author": "ned",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.0"
+    "request" : "2.81.0"
+  }
+}
